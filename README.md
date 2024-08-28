@@ -1,3 +1,7 @@
+# Link Deploy
+
+https://alquran-random-verse.vercel.app/
+
 # Clone Repository
 
 `git clone https://github.com/onuda22/alquran-random-verse.git`
