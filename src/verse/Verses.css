@@ -1,0 +1,50 @@
+h1 {
+  font-family: sans-serif;
+  color: aliceblue;
+}
+
+.button {
+  border: 2px solid #f2f2f2;
+  transition-duration: 400ms;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  background-color: transparent;
+  color: aliceblue;
+}
+
+.button:hover {
+  background-color: aliceblue;
+  color: #ff66c4;
+}
+
+.content {
+  background-image: url("5660126.jpg");
+  border-radius: 20px;
+  padding: 20px;
+  border-radius: 20px;
+  margin-bottom: 100px;
+}
+
+.card_content {
+  padding: 60px;
+  color: black;
+}
+
+.translate_indo {
+  font-size: 17px;
+  font-style: italic;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.line {
+  height: 1.5px;
+  background: black;
+}
+
+.tafsir {
+  font-size: 15px;
+  font-family: sans-serif;
+}
